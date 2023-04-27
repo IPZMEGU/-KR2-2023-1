@@ -16,5 +16,10 @@ namespace _KR2_2023_1
         {
             InitializeComponent();
         }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Якщо програміст каже, що щось неможливо зробити, то не вірте йому. Він просто не знайшов ще способу, як це зробити.", "Увага! Анекдот!", MessageBoxButtons.OK);
+        }
     }
 }
