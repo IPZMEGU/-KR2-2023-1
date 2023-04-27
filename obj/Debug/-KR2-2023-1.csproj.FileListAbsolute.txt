@@ -1,0 +1,9 @@
+C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\bin\Debug\-KR2-2023-1.exe.config
+C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\bin\Debug\-KR2-2023-1.exe
+C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\bin\Debug\-KR2-2023-1.pdb
+C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\obj\Debug\_KR2_2023_1.Form1.resources
+C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\obj\Debug\_KR2_2023_1.Properties.Resources.resources
+C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.GenerateResource.cache
+C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\obj\Debug\-KR2-2023-1.exe
+C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\obj\Debug\-KR2-2023-1.pdb
