@@ -62,7 +62,7 @@ namespace _KR2_2023_1
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(25, 10);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(95, 36);
             this.button1.TabIndex = 0;
@@ -73,7 +73,7 @@ namespace _KR2_2023_1
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(154, 172);
-            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(95, 36);
             this.button2.TabIndex = 1;
@@ -83,7 +83,7 @@ namespace _KR2_2023_1
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(154, 213);
-            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(95, 36);
             this.button3.TabIndex = 2;
@@ -93,7 +93,7 @@ namespace _KR2_2023_1
             // button4
             // 
             this.button4.Location = new System.Drawing.Point(154, 254);
-            this.button4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button4.Margin = new System.Windows.Forms.Padding(2);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(95, 36);
             this.button4.TabIndex = 3;
@@ -103,7 +103,7 @@ namespace _KR2_2023_1
             // button5
             // 
             this.button5.Location = new System.Drawing.Point(154, 294);
-            this.button5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button5.Margin = new System.Windows.Forms.Padding(2);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(95, 36);
             this.button5.TabIndex = 4;
@@ -113,7 +113,7 @@ namespace _KR2_2023_1
             // button6
             // 
             this.button6.Location = new System.Drawing.Point(89, 375);
-            this.button6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button6.Margin = new System.Windows.Forms.Padding(2);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(95, 36);
             this.button6.TabIndex = 5;
@@ -123,7 +123,7 @@ namespace _KR2_2023_1
             // button7
             // 
             this.button7.Location = new System.Drawing.Point(154, 335);
-            this.button7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button7.Margin = new System.Windows.Forms.Padding(2);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(95, 36);
             this.button7.TabIndex = 6;
@@ -133,7 +133,7 @@ namespace _KR2_2023_1
             // button8
             // 
             this.button8.Location = new System.Drawing.Point(154, 132);
-            this.button8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button8.Margin = new System.Windows.Forms.Padding(2);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(95, 36);
             this.button8.TabIndex = 7;
@@ -143,7 +143,7 @@ namespace _KR2_2023_1
             // button9
             // 
             this.button9.Location = new System.Drawing.Point(154, 91);
-            this.button9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button9.Margin = new System.Windows.Forms.Padding(2);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(95, 36);
             this.button9.TabIndex = 8;
@@ -153,7 +153,7 @@ namespace _KR2_2023_1
             // button10
             // 
             this.button10.Location = new System.Drawing.Point(154, 50);
-            this.button10.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button10.Margin = new System.Windows.Forms.Padding(2);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(95, 36);
             this.button10.TabIndex = 9;
@@ -163,7 +163,7 @@ namespace _KR2_2023_1
             // button11
             // 
             this.button11.Location = new System.Drawing.Point(154, 10);
-            this.button11.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button11.Margin = new System.Windows.Forms.Padding(2);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(95, 36);
             this.button11.TabIndex = 10;
@@ -173,7 +173,7 @@ namespace _KR2_2023_1
             // button12
             // 
             this.button12.Location = new System.Drawing.Point(25, 335);
-            this.button12.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button12.Margin = new System.Windows.Forms.Padding(2);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(95, 36);
             this.button12.TabIndex = 11;
@@ -183,7 +183,7 @@ namespace _KR2_2023_1
             // button13
             // 
             this.button13.Location = new System.Drawing.Point(25, 294);
-            this.button13.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button13.Margin = new System.Windows.Forms.Padding(2);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(95, 36);
             this.button13.TabIndex = 12;
@@ -193,7 +193,7 @@ namespace _KR2_2023_1
             // button14
             // 
             this.button14.Location = new System.Drawing.Point(25, 254);
-            this.button14.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button14.Margin = new System.Windows.Forms.Padding(2);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(95, 36);
             this.button14.TabIndex = 13;
@@ -203,7 +203,7 @@ namespace _KR2_2023_1
             // button15
             // 
             this.button15.Location = new System.Drawing.Point(25, 213);
-            this.button15.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button15.Margin = new System.Windows.Forms.Padding(2);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(95, 36);
             this.button15.TabIndex = 14;
@@ -213,7 +213,7 @@ namespace _KR2_2023_1
             // button16
             // 
             this.button16.Location = new System.Drawing.Point(25, 172);
-            this.button16.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button16.Margin = new System.Windows.Forms.Padding(2);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(95, 36);
             this.button16.TabIndex = 15;
@@ -223,17 +223,18 @@ namespace _KR2_2023_1
             // button17
             // 
             this.button17.Location = new System.Drawing.Point(25, 132);
-            this.button17.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button17.Margin = new System.Windows.Forms.Padding(2);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(95, 36);
             this.button17.TabIndex = 16;
-            this.button17.Text = "ПІ-20 4.";
+            this.button17.Text = "ПІ-20 Гусак";
             this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.button4_Click);
             // 
             // button18
             // 
             this.button18.Location = new System.Drawing.Point(25, 91);
-            this.button18.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button18.Margin = new System.Windows.Forms.Padding(2);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(95, 36);
             this.button18.TabIndex = 17;
@@ -243,7 +244,7 @@ namespace _KR2_2023_1
             // button19
             // 
             this.button19.Location = new System.Drawing.Point(25, 50);
-            this.button19.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button19.Margin = new System.Windows.Forms.Padding(2);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(95, 36);
             this.button19.TabIndex = 18;
@@ -253,7 +254,7 @@ namespace _KR2_2023_1
             // button20
             // 
             this.button20.Location = new System.Drawing.Point(307, 10);
-            this.button20.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button20.Margin = new System.Windows.Forms.Padding(2);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(95, 36);
             this.button20.TabIndex = 19;
@@ -263,7 +264,7 @@ namespace _KR2_2023_1
             // button21
             // 
             this.button21.Location = new System.Drawing.Point(370, 172);
-            this.button21.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button21.Margin = new System.Windows.Forms.Padding(2);
             this.button21.Name = "button21";
             this.button21.Size = new System.Drawing.Size(95, 36);
             this.button21.TabIndex = 20;
@@ -273,7 +274,7 @@ namespace _KR2_2023_1
             // button22
             // 
             this.button22.Location = new System.Drawing.Point(428, 132);
-            this.button22.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button22.Margin = new System.Windows.Forms.Padding(2);
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(95, 36);
             this.button22.TabIndex = 21;
@@ -283,7 +284,7 @@ namespace _KR2_2023_1
             // button23
             // 
             this.button23.Location = new System.Drawing.Point(307, 132);
-            this.button23.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button23.Margin = new System.Windows.Forms.Padding(2);
             this.button23.Name = "button23";
             this.button23.Size = new System.Drawing.Size(95, 36);
             this.button23.TabIndex = 22;
@@ -293,7 +294,7 @@ namespace _KR2_2023_1
             // button24
             // 
             this.button24.Location = new System.Drawing.Point(428, 91);
-            this.button24.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button24.Margin = new System.Windows.Forms.Padding(2);
             this.button24.Name = "button24";
             this.button24.Size = new System.Drawing.Size(95, 36);
             this.button24.TabIndex = 23;
@@ -303,7 +304,7 @@ namespace _KR2_2023_1
             // button25
             // 
             this.button25.Location = new System.Drawing.Point(307, 91);
-            this.button25.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button25.Margin = new System.Windows.Forms.Padding(2);
             this.button25.Name = "button25";
             this.button25.Size = new System.Drawing.Size(95, 36);
             this.button25.TabIndex = 24;
@@ -313,7 +314,7 @@ namespace _KR2_2023_1
             // button26
             // 
             this.button26.Location = new System.Drawing.Point(428, 50);
-            this.button26.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button26.Margin = new System.Windows.Forms.Padding(2);
             this.button26.Name = "button26";
             this.button26.Size = new System.Drawing.Size(95, 36);
             this.button26.TabIndex = 25;
@@ -323,7 +324,7 @@ namespace _KR2_2023_1
             // button27
             // 
             this.button27.Location = new System.Drawing.Point(307, 50);
-            this.button27.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button27.Margin = new System.Windows.Forms.Padding(2);
             this.button27.Name = "button27";
             this.button27.Size = new System.Drawing.Size(95, 36);
             this.button27.TabIndex = 26;
@@ -333,7 +334,7 @@ namespace _KR2_2023_1
             // button28
             // 
             this.button28.Location = new System.Drawing.Point(428, 10);
-            this.button28.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button28.Margin = new System.Windows.Forms.Padding(2);
             this.button28.Name = "button28";
             this.button28.Size = new System.Drawing.Size(95, 36);
             this.button28.TabIndex = 27;
@@ -373,7 +374,7 @@ namespace _KR2_2023_1
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

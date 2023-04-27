@@ -21,5 +21,9 @@ namespace _KR2_2023_1
         {
             MessageBox.Show("Не розумію....\nЧому штани в яких краще вього лежати на дивані називаються спортивними???","Анекдот" , MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
         }
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Давид крутий чувак! А Микита ще круче!", "Анекдот", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
+        }
     }
 }
