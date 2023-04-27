@@ -8,3 +8,13 @@ C:\Users\Student\Desktop\kr\obj\Debug\-KR2-2023-1.csproj.GenerateResource.cache
 C:\Users\Student\Desktop\kr\obj\Debug\-KR2-2023-1.csproj.CoreCompileInputs.cache
 C:\Users\Student\Desktop\kr\obj\Debug\-KR2-2023-1.exe
 C:\Users\Student\Desktop\kr\obj\Debug\-KR2-2023-1.pdb
+D:\Домашнє\repos\-KR2-2023-1\bin\Debug\-KR2-2023-1.exe.config
+D:\Домашнє\repos\-KR2-2023-1\bin\Debug\-KR2-2023-1.exe
+D:\Домашнє\repos\-KR2-2023-1\bin\Debug\-KR2-2023-1.pdb
+D:\Домашнє\repos\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.AssemblyReference.cache
+D:\Домашнє\repos\-KR2-2023-1\obj\Debug\_KR2_2023_1.Form1.resources
+D:\Домашнє\repos\-KR2-2023-1\obj\Debug\_KR2_2023_1.Properties.Resources.resources
+D:\Домашнє\repos\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.GenerateResource.cache
+D:\Домашнє\repos\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.CoreCompileInputs.cache
+D:\Домашнє\repos\-KR2-2023-1\obj\Debug\-KR2-2023-1.exe
+D:\Домашнє\repos\-KR2-2023-1\obj\Debug\-KR2-2023-1.pdb
