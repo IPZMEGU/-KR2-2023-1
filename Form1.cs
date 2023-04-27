@@ -16,5 +16,10 @@ namespace _KR2_2023_1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Не розумію....\nЧому штани в яких краще вього лежати на дивані називаються спортивними???","Анекдот" , MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
+        }
     }
 }
