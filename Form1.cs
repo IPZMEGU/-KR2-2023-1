@@ -25,5 +25,10 @@ namespace _KR2_2023_1
         {
             MessageBox.Show("Давид крутий чувак! А Микита ще круче!", "Анекдот", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
         }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Микита взагалі крутий чувак, не має чорний каділак, в нього 'MUKUTA' номера", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
