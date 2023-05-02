@@ -34,25 +34,8 @@ namespace _KR2_2023_1
 
         private void button19_Click(object sender, EventArgs e)
         {
-            if (f1 == null)
-            {
-                f1 = new FormBorovets();
-                f1.Show();
-            }
-            else
-           if (f1.IsDisposed)
-            {
-                f1 = new FormBorovets();
-                f1.Show();
-            }
-            else
-            {
-                if (f1.WindowState == FormWindowState.Minimized)
-                    f1.WindowState = FormWindowState.Normal;
-                else
-                    if (!f1.Focused)
-                    f1.Focus();
-            }
+            MessageBox.Show("Щасливий той богомол що мав дві жінки", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
         }
     }
 }
