@@ -208,8 +208,9 @@ namespace _KR2_2023_1
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(127, 44);
             this.button15.TabIndex = 14;
-            this.button15.Text = "ПІ-20 6.";
+            this.button15.Text = "ПІ-20 Євпат.";
             this.button15.UseVisualStyleBackColor = true;
+            this.button15.Click += new System.EventHandler(this.button15_Click);
             // 
             // button16
             // 
