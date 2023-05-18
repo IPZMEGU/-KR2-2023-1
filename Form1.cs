@@ -12,7 +12,7 @@ namespace _KR2_2023_1
 {
     public partial class Form1 : Form
     {
-        FormBorovets f1 = null;
+        
         public Form1()
         {
             InitializeComponent();

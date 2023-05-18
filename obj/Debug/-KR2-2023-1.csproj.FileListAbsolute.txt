@@ -31,5 +31,3 @@ C:\Users\Пользователь\Desktop\VI семестр\командна р�
 C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.exe
 C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.pdb
 C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.AssemblyReference.cache
-C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\obj\Debug\-KR2-2023-1.exe
-C:\Users\Veronica\Source\Repos\IPZMEGU\-KR2-2023-1\obj\Debug\-KR2-2023-1.pdb
