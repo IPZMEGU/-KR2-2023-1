@@ -41,5 +41,10 @@ namespace _KR2_2023_1
         {
             MessageBox.Show("Тут може бути ваш анекдот...", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Анекдот що нема анекдота", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
