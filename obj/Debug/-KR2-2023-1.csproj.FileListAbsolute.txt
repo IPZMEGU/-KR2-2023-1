@@ -30,3 +30,14 @@ C:\Users\Пользователь\Desktop\VI семестр\командна р�
 C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.csproj.CoreCompileInputs.cache
 C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.exe
 C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.pdb
+C:\Users\zarec\Desktop\з\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.AssemblyReference.cache
+C:\Users\zarec\Desktop\з\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zarec\Desktop\з\-KR2-2023-1\obj\Debug\-KR2-2023-1.exe
+C:\Users\zarec\Desktop\з\-KR2-2023-1\obj\Debug\-KR2-2023-1.pdb
+C:\Users\zarec\Desktop\з\-KR2-2023-1\obj\Debug\_KR2_2023_1.Form1.resources
+C:\Users\zarec\Desktop\з\-KR2-2023-1\obj\Debug\_KR2_2023_1.Properties.Resources.resources
+C:\Users\zarec\Desktop\з\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.GenerateResource.cache
+C:\Users\zarec\Desktop\з\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.CoreCompileInputs.cache
+C:\Users\zarec\Desktop\з\-KR2-2023-1\bin\Debug\-KR2-2023-1.exe.config
+C:\Users\zarec\Desktop\з\-KR2-2023-1\bin\Debug\-KR2-2023-1.exe
+C:\Users\zarec\Desktop\з\-KR2-2023-1\bin\Debug\-KR2-2023-1.pdb
