@@ -37,5 +37,10 @@ namespace _KR2_2023_1
             MessageBox.Show("Щасливий той богомол що мав дві жінки", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Тут може бути ваш анекдот...", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
