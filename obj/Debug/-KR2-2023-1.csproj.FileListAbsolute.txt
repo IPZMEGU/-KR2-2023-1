@@ -18,3 +18,15 @@ D:\Домашнє\repos\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.GenerateResourc
 D:\Домашнє\repos\-KR2-2023-1\obj\Debug\-KR2-2023-1.csproj.CoreCompileInputs.cache
 D:\Домашнє\repos\-KR2-2023-1\obj\Debug\-KR2-2023-1.exe
 D:\Домашнє\repos\-KR2-2023-1\obj\Debug\-KR2-2023-1.pdb
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\bin\Debug\-KR2-2023-1.exe.config
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\bin\Debug\-KR2-2023-1.exe
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\bin\Debug\-KR2-2023-1.pdb
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\_KR2_2023_1.Form1.resources
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\_KR2_2023_1.FormBorovets.resources
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\_KR2_2023_1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.exe
+C:\Users\Пользователь\Desktop\VI семестр\командна розробка\kr2\obj\Debug\-KR2-2023-1.pdb

@@ -12,6 +12,7 @@ namespace _KR2_2023_1
 {
     public partial class Form1 : Form
     {
+        FormBorovets f1 = null;
         public Form1()
         {
             InitializeComponent();
@@ -29,6 +30,17 @@ namespace _KR2_2023_1
         private void button13_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Микита взагалі крутий чувак, не має чорний каділак, в нього 'MUKUTA' номера", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Щасливий той богомол що мав дві жінки", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Тут може бути ваш анекдот...", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
